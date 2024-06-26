@@ -30,6 +30,7 @@ The turtle race simulation involves eight turtles, each representing a famous ru
 3. Run the Python file using your Python interpreter.
 
 ## Output
-![Uploading image.png…]()
+![Turtle Race](/Users/brahmirathod/Desktop/turtle_race.png)
+
 
 
