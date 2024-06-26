@@ -26,5 +26,5 @@ The turtle race simulation involves eight turtles, each representing a famous ru
 ## How to Run
 
 1. Make sure you have Python installed on your system.
-2. Copy the `turtle_race.py` code into a Python file.
+2. Copy the `turtle_race.ipynb` code into a Python file.
 3. Run the Python file using your Python interpreter.
