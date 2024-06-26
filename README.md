@@ -32,6 +32,10 @@ The turtle race simulation involves eight turtles, each representing a famous ru
 ## Output
 <img width="1440" alt="turtle_race" src="https://github.com/brahmirathodd/Projects/assets/168703089/88c4cdda-9d98-4b2c-91d1-f637e5d0882a">
 
+### Jay Wins!
+In a stunning display of speed and perseverance, Jay's unwavering determination and relentless grit propelled him to the finish line first. As Jay crossed the line, a loud cheer of "Gold for Me!" echoed across the race track. 
+
+Highlighted in his bright red color, Jay stands proudly outside the track, basking in the glory of his well-deserved win. Congratulations, Jay!
 
 
 
