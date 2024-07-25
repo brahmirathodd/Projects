@@ -16,3 +16,5 @@ Confidence intervals are crucial in statistics as they provide a range of values
 
 To get started with the Confidence Interval Demonstration app, follow these simple steps:
 
+### Streamlit Link : https://projects-ci.streamlit.app
+
